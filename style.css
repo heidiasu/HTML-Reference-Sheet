@@ -1,0 +1,33 @@
+body {
+  background-color: aliceBlue;
+}
+
+h1{
+  color: mediumSlateBlue;
+}
+
+h2 {
+  color:slategrey;
+}
+header {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  font-family: fantasy, sans-serif;
+}
+
+th {
+  color: darkred;
+  font-family: fantasy, sans-serif;
+  background-color: lightsteelblue;
+}
